@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/7f726d0b-5433-4564-a351-c778f96bf68e)
+
+
 # k8sgptai
 K8sGPT is an incredible tool that gives Kubernetes SREs superpowers.  It provides a simple and efficient way to scan your Kubernetes clusters and diagnose issues in plain English.  The tool is designed to have SRE experience codified into its analysers, which helps to pull out the most relevant information and enrich it with AI.
 
